@@ -1,0 +1,20 @@
+# 运行产物
+out/
+review/
+assets/
+node_modules/
+
+# 媒体文件
+*.mp4
+*.wav
+*.mov
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 本地环境
+.env
+.env.*
